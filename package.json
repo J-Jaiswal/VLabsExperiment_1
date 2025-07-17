@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/drei": "^10.5.0",
+    "@react-three/fiber": "^9.2.0",
+    "ml-matrix": "^6.12.1",
+    "plotly.js": "^3.0.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-plotly.js": "^2.6.0",
+    "three": "^0.177.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
